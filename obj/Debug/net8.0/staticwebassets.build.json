@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "T8nRH7fmcKbTp0oCQVgWTCV/M6e1iMjwWEi7ExPfiM8=",
+  "Hash": "wJ8Ayko3PXSwsMFO2p3i/Gdp5KedzrwFDbNiS7Wzslc=",
   "Source": "TP5",
   "BasePath": "_content/TP5",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "Z:\\INFO 2025\\PROG\\TP5\\wwwroot\\imagenes\\Codigo sala1.jpg",
+      "SourceId": "TP5",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\INFO 2025\\PROG\\TP5\\wwwroot\\",
+      "BasePath": "_content/TP5",
+      "RelativePath": "imagenes/Codigo sala1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\Codigo sala1.jpg"
     },
     {
       "Identity": "Z:\\INFO 2025\\PROG\\TP5\\wwwroot\\js\\site.js",
@@ -300,6 +319,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "Z:\\INFO 2025\\PROG\\TP5\\wwwroot\\Thumbs.db",
+      "SourceId": "TP5",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\INFO 2025\\PROG\\TP5\\wwwroot\\",
+      "BasePath": "_content/TP5",
+      "RelativePath": "Thumbs.db",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Thumbs.db"
     }
   ]
 }

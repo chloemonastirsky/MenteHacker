@@ -31,11 +31,10 @@ public class HomeController : Controller
 
     public IActionResult pasarDeSala(string clave){
      Juego juego = Objeto.StringToObject<Juego>(HttpContext.Session.GetString("juego"));
-        if(juego.pasarDeSala(clave)==true){  
+        if(juego.pasarDeSala(clave)){  
             ViewBag.Victoria="Ha pasado de sala";
         }
-        
-        return View("Index");
+        return View ("Sala" + juego.idSala);
     }
 
     

@@ -9,7 +9,7 @@ public class Juego
     [JsonProperty]
     public string pista;
     [JsonProperty]
-    public string[] Claves= new string [4];
+    private string[] Claves= new string [4];
 
     public Juego(){
         idSala=1;

@@ -1,12 +1,20 @@
 {
   "Files": [
     {
+      "Id": "Z:\\INFO 2025\\PROG\\TP5\\wwwroot\\Thumbs.db",
+      "PackagePath": "staticwebassets\\Thumbs.db"
+    },
+    {
       "Id": "Z:\\INFO 2025\\PROG\\TP5\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "Z:\\INFO 2025\\PROG\\TP5\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "Z:\\INFO 2025\\PROG\\TP5\\wwwroot\\imagenes\\Codigo sala1.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Codigo sala1.jpg"
     },
     {
       "Id": "Z:\\INFO 2025\\PROG\\TP5\\wwwroot\\js\\site.js",

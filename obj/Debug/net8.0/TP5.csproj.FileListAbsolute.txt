@@ -37,3 +37,4 @@ Z:\INFO 2025\PROG\TP5\obj\Debug\net8.0\refint\TP5.dll
 Z:\INFO 2025\PROG\TP5\obj\Debug\net8.0\TP5.pdb
 Z:\INFO 2025\PROG\TP5\obj\Debug\net8.0\TP5.genruntimeconfig.cache
 Z:\INFO 2025\PROG\TP5\obj\Debug\net8.0\ref\TP5.dll
+Z:\INFO 2025\PROG\TP5\obj\Debug\net8.0\TP5.sourcelink.json
