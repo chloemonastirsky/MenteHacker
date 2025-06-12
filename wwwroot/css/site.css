@@ -21,3 +21,95 @@ footer {
   background-color: #f8f9fa;
   border-top: 1px solid #e9ecef;
 }
+
+h1{
+  font-size: 110px;
+  font-style: italic;
+  font-weight:900;
+  font-variant: small-caps;
+  font-family: monospace;
+  text-align: center;
+  margin-top: 8%;
+  color:white;
+
+}
+
+h5{
+  font-size: 70px;
+  font-style: italic;
+  font-weight:900;
+  font-variant: small-caps;
+  font-family: monospace;
+  text-align: center;
+  margin-top: 4%;
+  color:white;
+  
+}
+
+div img{
+  width:45%;
+  margin-left: 25%;
+  border: solid rgb(134, 223, 131) 3px;
+}
+div form{
+  margin-left: 40%;
+  margin-bottom:3%;
+  margin-top:2%;
+  width: 185%;
+  height: 25%;
+  
+}
+
+#Fondo{
+  display: inline-block;
+  background-image: url("../imagenes/fotoinicio.jfif");
+  background-size: cover;
+}
+
+div form input[type="text"]{
+    width: 300px;    
+    height: 40px;      
+    font-size: 18px;   
+
+}
+div form input[type="submit"]{
+  background-color:#3e8b48;    
+  height: 40px;      
+  font-size: 18px;   
+box-shadow: 4px 4px 4px rgb(48, 121, 48);
+}
+div form input[type="submit"]:hover{
+  background-color:#6ac276;
+  box-shadow: none;
+}
+
+button{
+  margin-left:43%;
+  font-size: 30px;
+  border-radius: 15px;
+  font-family: monospace;
+ padding:1%;
+ box-shadow: 5px 8px 5px  rgb(30, 83, 41);
+ background-color: #4bcc4bbe;
+
+}
+button:hover{
+background-color: #2a9238;
+box-shadow: none;
+color:rgb(125, 207, 125); 
+}
+
+p{
+  font-size: 35px;
+  font-family:monospace;
+  text-align: center;
+  color:white;
+  margin-top: 3%;
+  
+  margin-left: 5%;
+}
+
+div{
+  width: 85%;
+  margin-left: 6%;
+}

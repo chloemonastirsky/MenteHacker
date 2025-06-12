@@ -13,10 +13,10 @@ public class Juego
 
     public Juego(){
         idSala=1;
-         Claves[0] = "Master";
-         Claves[1] = "Hacker";
+         Claves[0] = "master";
+         Claves[1] = "hacker";
          Claves[2] = "173";
-         Claves[3] = "Salidas";
+         Claves[3] = "salidas";
     }
 
 

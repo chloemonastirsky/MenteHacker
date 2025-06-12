@@ -1,10 +1,12 @@
 
 <div>
-    <h1>La clave está escondida; es tu desafío como programador encontarla.</h1>
-    <p></p>
+    <h5>La clave está escondida; es tu desafío como programador encontarla.</h5>
     <form action='@Url.Action("pasarDeSala", "Home" )' method="POST">
-        Adivinar clave:<input type = "text" name="clave">
-        <input type = "submit" value = "pasarDeSala">
+        <input type = "text" name="clave">
+        <input type = "submit" value = "Arriesgar">
     </form>
-    
+    <img src= "/imagenes/Codigo sala1.jpg">
 </div>
+<script>
+    document.getElementById("Fondo").style.backgroundImage = "url('../imagenes/fondosala1.png')";
+</script>

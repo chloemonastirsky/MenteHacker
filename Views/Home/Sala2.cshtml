@@ -1,6 +1,12 @@
+<div>
 <h1>Lograste llegar a la segunda sala...</h1>
-<h2>La clave está escondida; es tu desafío como programador encontarla.</h2>
+<p>No hay bits sin letras.</p>
+
    <form action='@Url.Action("pasarDeSala", "Home" )' method="POST">
-        Adivinar clave:<input type = "text" name="clave">
-        <input type = "submit" value = "pasarDeSala">
+        <input type = "text" name="clave">
+        <input type = "submit" value = "Arriesgar">
     </form>
+</div>
+<script>
+    document.getElementById("Fondo").style.backgroundImage = "url('../imagenes/INICIO.png')";
+</script>

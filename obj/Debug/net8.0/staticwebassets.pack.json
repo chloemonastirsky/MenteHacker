@@ -17,6 +17,22 @@
       "PackagePath": "staticwebassets\\imagenes\\Codigo sala1.jpg"
     },
     {
+      "Id": "Z:\\INFO 2025\\PROG\\TP5\\wwwroot\\imagenes\\INICIO.png",
+      "PackagePath": "staticwebassets\\imagenes\\INICIO.png"
+    },
+    {
+      "Id": "Z:\\INFO 2025\\PROG\\TP5\\wwwroot\\imagenes\\Thumbs.db",
+      "PackagePath": "staticwebassets\\imagenes\\Thumbs.db"
+    },
+    {
+      "Id": "Z:\\INFO 2025\\PROG\\TP5\\wwwroot\\imagenes\\fondosala1.png",
+      "PackagePath": "staticwebassets\\imagenes\\fondosala1.png"
+    },
+    {
+      "Id": "Z:\\INFO 2025\\PROG\\TP5\\wwwroot\\imagenes\\fotoprincipal.png",
+      "PackagePath": "staticwebassets\\imagenes\\fotoprincipal.png"
+    },
+    {
       "Id": "Z:\\INFO 2025\\PROG\\TP5\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
