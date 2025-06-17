@@ -1,10 +1,25 @@
-    
+    <div>
     <h1>Estás cada vez más cerca del final...</h1>
     <h2>Vas a necesitar tus dotes matemáticos para este nivel</h2>
-    <h4>192.48.?.21=434</h4>
+    <h6>IP: 192.48.?.21=434</h6>
  <form action='@Url.Action("pasarDeSala", "Home" )' method="POST">
         <input type = "text" name="clave">
         <input type = "submit" value = "Arriesgar">
     </form>
+    </div>
     
+  <script>
     
+       window.onload = function () {
+    const fondo = document.getElementById("Fondo");
+    fondo.style.backgroundImage = "url('../imagenes/fondosala2.png')";
+    fondo.style.backgroundSize = "cover";
+    fondo.style.backgroundPosition = "center";
+    fondo.style.backgroundRepeat = "no-repeat";
+    fondo.style.width = "100vw";
+    fondo.style.height = "100vh";
+    fondo.style.overflowX = "hidden"; // importante para evitar scroll lateral
+    fondo.style.margin = "0";
+    fondo.style.padding = "0";
+  };
+</script>

@@ -1,6 +1,8 @@
 <div>
 <h1>Lograste llegar a la segunda sala...</h1>
-<p>No hay bits sin letras.</p>
+<h2>No hay bits sin letras.</h2>
+<h6>01101000 01100001 01100011 01101011 01100101 01110010</h6>
+
 
    <form action='@Url.Action("pasarDeSala", "Home" )' method="POST">
         <input type = "text" name="clave">
@@ -8,5 +10,17 @@
     </form>
 </div>
 <script>
-    document.getElementById("Fondo").style.backgroundImage = "url('../imagenes/INICIO.png')";
+    // document.getElementById("Fondo").style.backgroundImage = "url('../imagenes/INICIO.png')";
+       window.onload = function () {
+    const fondo = document.getElementById("Fondo");
+    fondo.style.backgroundImage = "url('../imagenes/INICIO.png')";
+    fondo.style.backgroundSize = "cover";
+    fondo.style.backgroundPosition = "center";
+    fondo.style.backgroundRepeat = "no-repeat";
+    fondo.style.width = "100vw";
+    fondo.style.height = "100vh";
+    fondo.style.overflowX = "hidden"; // importante para evitar scroll lateral
+    fondo.style.margin = "0";
+    fondo.style.padding = "0";
+  };
 </script>

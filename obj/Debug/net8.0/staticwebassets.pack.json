@@ -29,6 +29,14 @@
       "PackagePath": "staticwebassets\\imagenes\\fondosala1.png"
     },
     {
+      "Id": "Z:\\INFO 2025\\PROG\\TP5\\wwwroot\\imagenes\\fondosala2.png",
+      "PackagePath": "staticwebassets\\imagenes\\fondosala2.png"
+    },
+    {
+      "Id": "Z:\\INFO 2025\\PROG\\TP5\\wwwroot\\imagenes\\fondosala3.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\fondosala3.jpg"
+    },
+    {
       "Id": "Z:\\INFO 2025\\PROG\\TP5\\wwwroot\\imagenes\\fotoprincipal.png",
       "PackagePath": "staticwebassets\\imagenes\\fotoprincipal.png"
     },

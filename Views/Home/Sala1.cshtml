@@ -8,5 +8,17 @@
     <img src= "/imagenes/Codigo sala1.jpg">
 </div>
 <script>
-    document.getElementById("Fondo").style.backgroundImage = "url('../imagenes/fondosala1.png')";
+   //document.getElementById("Fondo").style.backgroundImage = "url('../imagenes/fondosala1.png')";
+     window.onload = function () {
+    const fondo = document.getElementById("Fondo");
+    fondo.style.backgroundImage = "url('../imagenes/fondosala1.png')";
+    fondo.style.backgroundSize = "cover";
+    fondo.style.backgroundPosition = "center";
+    fondo.style.backgroundRepeat = "no-repeat";
+    fondo.style.width = "100vw";
+    fondo.style.height = "100vh";
+    fondo.style.overflowX = "hidden"; // importante para evitar scroll lateral
+    fondo.style.margin = "0";
+    fondo.style.padding = "0";
+  };
 </script>
