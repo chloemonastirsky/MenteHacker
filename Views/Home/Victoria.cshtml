@@ -1,2 +1,23 @@
-<h1> FELICIDADEEES</h1>
-<h2> Has logrado escapar de la mente del hacker </h2>
+
+<h1 class="winner"> FELICIDADEEES</h1>
+<h2 class="fraseganadora"> ¡HAS LOGRADO ESCAPAR DE LA MENTE DEL HACKER!</h2>
+
+
+<img class="gif" src = "../imagenes/gifwinner.gif">
+
+<a class="volverajugar" href ="Index"> Volver a jugar </a>
+<script>
+    
+       window.onload = function () {
+    const fondo = document.getElementById("Fondo");
+    fondo.style.backgroundImage = "url('../imagenes/giffondop.gif')";
+    fondo.style.backgroundSize = "cover";
+    fondo.style.backgroundPosition = "center";
+    fondo.style.backgroundRepeat = "no-repeat";
+    fondo.style.width = "100vw";
+    fondo.style.height = "100vh";
+    fondo.style.overflowX = "hidden"; // importante para evitar scroll lateral
+    fondo.style.margin = "0";
+    fondo.style.padding = "0";
+  };
+</script>

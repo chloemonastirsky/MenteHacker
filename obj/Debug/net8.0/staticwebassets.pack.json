@@ -25,6 +25,10 @@
       "PackagePath": "staticwebassets\\imagenes\\Thumbs.db"
     },
     {
+      "Id": "Z:\\INFO 2025\\PROG\\TP5\\wwwroot\\imagenes\\fondo4.png",
+      "PackagePath": "staticwebassets\\imagenes\\fondo4.png"
+    },
+    {
       "Id": "Z:\\INFO 2025\\PROG\\TP5\\wwwroot\\imagenes\\fondosala1.png",
       "PackagePath": "staticwebassets\\imagenes\\fondosala1.png"
     },
@@ -39,6 +43,18 @@
     {
       "Id": "Z:\\INFO 2025\\PROG\\TP5\\wwwroot\\imagenes\\fotoprincipal.png",
       "PackagePath": "staticwebassets\\imagenes\\fotoprincipal.png"
+    },
+    {
+      "Id": "Z:\\INFO 2025\\PROG\\TP5\\wwwroot\\imagenes\\giffondop.gif",
+      "PackagePath": "staticwebassets\\imagenes\\giffondop.gif"
+    },
+    {
+      "Id": "Z:\\INFO 2025\\PROG\\TP5\\wwwroot\\imagenes\\gifwinner.gif",
+      "PackagePath": "staticwebassets\\imagenes\\gifwinner.gif"
+    },
+    {
+      "Id": "Z:\\INFO 2025\\PROG\\TP5\\wwwroot\\imagenes\\victoria.png",
+      "PackagePath": "staticwebassets\\imagenes\\victoria.png"
     },
     {
       "Id": "Z:\\INFO 2025\\PROG\\TP5\\wwwroot\\js\\site.js",
