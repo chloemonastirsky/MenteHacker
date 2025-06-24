@@ -64,13 +64,13 @@ h5{
 .fotosala1{
   width:40%;
   margin-left: 3%;
-  border: solid rgb(43, 92, 41) 3px;
+  border: solid rgb(40, 46, 66) 3px;
   margin-top:3%;
-  box-shadow: #00791081 5px 5px 5px 5px;
+  box-shadow: rgb(44, 48, 77) 5px 5px 5px 5px;
 }
 .fotosala1:hover{
   box-shadow: none;
-  border: solid rgb(138, 202, 136) 3px;
+  border: solid rgb(57, 71, 99) 3px;
 }
 div form, .sala1 form{
   margin-left: 38%;
@@ -187,12 +187,24 @@ margin-left:28%;
   width:35%;
   margin-left:32%;
   border-radius:20px;
+  margin-top:-2%;
 }
 
 .volverajugar{
-  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  -webkit-text-stroke: 1px black;
-  margin-top:1%;
-  color:white;
-  font-size: large;
+  
+  /* -webkit-text-stroke: 1px rgb(5, 5, 5); */
+  margin-top:4%;
+  color:rgb(228, 228, 228);
+  font-size: 30px;
+  margin-left:44%;
+  text-decoration: none;
+  background-color: #00db0b;
+  padding:5px;
+  border-radius: 10px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.volverajugar:hover{
+  box-shadow: 5px 8px 5px  rgba(30, 219, 30, 0.863);
+  color:black;
 }
